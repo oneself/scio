@@ -10,7 +10,7 @@
 <img src="https://raw.github.com/spotify/scio/master/site/src/main/paradox/images/scio.png" alt="Scio Logo" width="250"/>
 
 > Ecclesiastical Latin IPA: /ˈʃi.o/, [ˈʃiː.o], [ˈʃi.i̯o]
-> Verb: I can, know, understand, have knowledge.
+> Verb: I can, know, understand, have knowledge. Test
 
 Scio is a Scala API for [Apache Beam](http://beam.incubator.apache.org/) and [Google Cloud Dataflow](https://github.com/GoogleCloudPlatform/DataflowJavaSDK) inspired by [Apache Spark](http://spark.apache.org/) and [Scalding](https://github.com/twitter/scalding).
 
